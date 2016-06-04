@@ -1,10 +1,12 @@
 package com.leetcode.linkedlist;
 
+
+
 public class ListNode {
 	int val;
 	ListNode next;
 
-	ListNode(int x) {
+	public ListNode(int x) {
 		val = x;
 	}
 }
